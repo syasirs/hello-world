@@ -11,4 +11,3 @@
 **Bold** and _Italic_ and `Code` text
 
 [Link](https://github.com/syasirs/hello-world.git) and ![Image](src)
-```
